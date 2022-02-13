@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x60dA897670c9969Ff36317553034BB05410937B3",
+  "SCAN_LINK": "https://etherscan.io/address/0x60da897670c9969ff36317553034bb05410937b3",
+  "NETWORK": {
+    "NAME": "Ethererum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Pussycat Doodles",
+  "SYMBOL": "PUSSY",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 50000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pussycat-doodles",
+  "SHOW_BACKGROUND":true
+}
